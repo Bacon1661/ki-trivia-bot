@@ -1,0 +1,7 @@
+{
+  "name": "ki-trivia-bot",
+  "version": "1.0.0",
+  "description": "Script that automates the process of completing trivia on FreeKI Games.",
+  "main": "index.js",
+  "license": "MIT"
+}
