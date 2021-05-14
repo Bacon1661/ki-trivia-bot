@@ -1,4 +1,6 @@
 # ki-trivia-bot
+ Apologies, this project has been scrapped. Maybe I'll revisit it one day if there's reason to. 
+
  Script that automates the process of completing trivia on FreeKI Games to earn crowns in both Wizard101 and Pirate101.
  
  Still in its early stages, but works well enough thus far. If you have any issues with it (or it gets any questions incorrect), please report it. Feel free to contribute.
